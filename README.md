@@ -1,12 +1,12 @@
-### Hi there 👋
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-## I'm a Student 👨‍🎓
-- 🌱 I’m currently learning 😂
-- 🤔 I’m looking for help with .Net Developer
-- ⚡ Fun fact: I love to reading books
+-  I'm a Student 👨‍🎓 <br/>
+- 🌱 I’m currently learning <br/>
+- 🤔 I’m looking for help with .Net Developer <br/>
+- ⚡ Fun fact: I love to reading books <br/>
 
 <br/>
-### 📩 Connect with me:
+📩 Connect with me: <br/>
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/aleynabarut/
 [gmail]: mailto:aleynaebrt@gmail.com
 <br />
-### 🔧 Languages and Tools:
+🔧 Languages and Tools: <br/>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 
