@@ -1,5 +1,8 @@
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="450" height="450" />
+<br />
+<br /><br />
+<br />
 -  I'm a Student 👨‍🎓 <br/>
 - 🌱 I’m currently learning <br/>
 - 🤔 I’m looking for help with .Net Developer <br/>
@@ -25,5 +28,10 @@
 [vsCode]: https://code.visualstudio.com/
 <br />
 <br />
+<br />
+<br /><br />
+<br />
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=AleynaBarutt&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+ <br />
+<br />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AleynaBarutt&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
