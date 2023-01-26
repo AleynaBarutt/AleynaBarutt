@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="500" height="320" />
 -  I'm a Student 👨‍🎓 <br/>
 - 🌱 I’m currently learning <br/>
 - 🤔 I’m looking for help with .Net Developer <br/>
