@@ -3,7 +3,6 @@
 <br />
 <br />
 👋 Hi, I’m Aleyna
-👨‍🎓  I'm a Student <br/>
 👀 I’m interested in  C#, Java  and frameworks such as .Net <br/>
 🌱 I’m currently learning <br/>
 
@@ -15,7 +14,7 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/aleynabarut/
+
 [gmail]: mailto:aleynaebrt@gmail.com
 <br />
 
